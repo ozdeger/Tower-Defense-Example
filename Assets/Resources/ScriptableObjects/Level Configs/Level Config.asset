@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56931079d0bc888499bedc4fe66e7bef, type: 3}
+  m_Name: Level Config
+  m_EditorClassIdentifier: 
+  LevelBehaviours:
+  - {fileID: 11400000, guid: 4c9b332550a74f644bf55e0050aea209, type: 2}
+  - {fileID: 11400000, guid: dd8d371a75278bc439732f89731e3f0a, type: 2}
+  - {fileID: 11400000, guid: 3a75316b1b8c6d047a19e5335ffacb9b, type: 2}
+  - {fileID: 11400000, guid: 1112496e6d8ee0a45bf9b37f898f8615, type: 2}
+  - {fileID: 11400000, guid: 0ed473692e9c34e42b8243da0d67797e, type: 2}
+  ScenePoolSettings:
+    ScenePoolData: {fileID: 11400000, guid: 6ab02b486d9318241888322e1991e423, type: 2}
